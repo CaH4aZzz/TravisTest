@@ -12,6 +12,8 @@
     <groupId>com.maybe</groupId>
     <artifactId>maybe</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
     <name>maybe</name>
     <description>Project MaYBE</description>
 
