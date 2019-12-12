@@ -14,7 +14,7 @@ import java.util.HashSet;
 @Service
 public class ProductService {
     private ProductRepository productRepository;
-    private ComponentRepository componentRepository;
+    private ComponentRepository componentRepositorya;
 
     public ProductService(ProductRepository productRepository) {
         this.productRepository = productRepository;
