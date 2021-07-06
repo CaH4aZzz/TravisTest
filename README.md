@@ -1,3 +1,3 @@
 # MaYBE
-[![Build Status](https://travis-ci.com/CaH4aZzz/MaYBE.png?branch=dev)](https://travis-ci.com/CaH4aZzz/MaYBE)
-[![codecov](https://codecov.io/gh/CaH4aZzz/MaYBE/branch/dev/graph/badge.svg)](https://codecov.io/gh/CaH4aZzz/MaYBE)
+[![Build Status](https://travis-ci.com/CaH4aZzz/TravisTest.png?branch=master)](https://travis-ci.com/CaH4aZzz/TravisTest)
+[![codecov](https://codecov.io/gh/CaH4aZzz/TravisTest/branch/master/graph/badge.svg)](https://codecov.io/gh/CaH4aZzz/TravisTest)
